@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+there!+👋;+I'm+Quảng+Dại+Thiện!;Full+Stack+Developer+🚀;Clean+Code+Enthusiast+💡;" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+there!+👋;+I'm+Quảng+Dại+Thiện!;Full+Stack+Developer+🚀;" />
 </div>
 
 <div align="center">
@@ -22,7 +22,12 @@
 <br/>
 
 # 💫 About Me:
-🔭 I'm currently building a full-stack social platform with NestJS REST API & Next.js frontend<br>🌱 I'm deepening my skills in Clean Architecture, Domain-Driven Design & modern web development<br>🏗️ I love applying Use-Case patterns, Mappers & DTOs for maintainable, scalable code<br>💬 Ask me about NestJS · Next.js · React · TypeScript · MongoDB · Swagger/OpenAPI<br>📫 How to reach me: daithien2004@gmail.com<br>⚡ Fun fact: I debug faster with coffee ☕
+🔭 I'm currently building Ping, a Discord-inspired chat platform with NestJS & Next.js
+🌱 I'm exploring real-time systems, event-driven processing & AI integration
+🏗️ I enjoy building reliable applications with Socket.IO, Redis & PostgreSQL
+💬 Ask me about NestJS · Next.js · React · TypeScript · REST APIs
+📫 How to reach me: daithien2004@gmail.com
+⚡ Fun fact: I debug faster with coffee ☕
 
 
 ## 🌐 Socials:
