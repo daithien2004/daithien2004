@@ -22,11 +22,11 @@
 <br/>
 
 # 💫 About Me:
-🔭 I'm currently building Ping, a Discord-inspired chat platform with NestJS & Next.js
-🌱 I'm exploring real-time systems, event-driven processing & AI integration
-🏗️ I enjoy building reliable applications with Socket.IO, Redis & PostgreSQL
-💬 Ask me about NestJS · Next.js · React · TypeScript · REST APIs
-📫 How to reach me: daithien2004@gmail.com
+🔭 I'm currently building **Ping**, a Discord-inspired chat platform with **NestJS & Next.js**<br>
+🌱 I'm exploring **real-time systems, event-driven processing & AI integration**<br>
+🏗️ I enjoy building reliable applications with **Socket.IO, Redis & PostgreSQL**<br>
+💬 Ask me about **NestJS · Next.js · React · TypeScript · REST APIs**<br>
+📫 How to reach me: [daithien2004@gmail.com](mailto:daithien2004@gmail.com)<br>
 ⚡ Fun fact: I debug faster with coffee ☕
 
 
